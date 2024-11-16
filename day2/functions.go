@@ -4,7 +4,7 @@ package main
 
 import "fmt"
 
-func add(a, b int) int { //here we are defining that bot a and b will be type of int and return type is also int
+func add(a, b int) int { //here we are defining that both a and b will be type of int and return type is also int
 	c := a + b
 	return c
 }

@@ -7,7 +7,7 @@ func main() {
 	// int, float, bool, string etc
 	// 1. Signed Integers (int8, int16, int32, int64) depending on the platform
 	// 2. Unsigned Integers (uint8 or byte, uint16, uint32, uint64), size is platform dependent
-	// 3. Machine D ependent Types (int, uint, uintptr) depends on the type of architecture on which the program is running 32bit vs 64bit
+	// 3. Machine Dependent Types (int, uint, uintptr) depends on the type of architecture on which the program is running 32bit vs 64bit
 
 	//Composite type variables
 	// struct, array, slices, map, channels, interfaces, pointers etc
